@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/nunestiago/PomodoroTS/static/css/main.20b32334.chunk.css",
-    "main.js": "/nunestiago/PomodoroTS/static/js/main.b0a91053.chunk.js",
-    "main.js.map": "/nunestiago/PomodoroTS/static/js/main.b0a91053.chunk.js.map",
-    "runtime-main.js": "/nunestiago/PomodoroTS/static/js/runtime-main.6e0158dc.js",
-    "runtime-main.js.map": "/nunestiago/PomodoroTS/static/js/runtime-main.6e0158dc.js.map",
-    "static/js/2.4994cc0f.chunk.js": "/nunestiago/PomodoroTS/static/js/2.4994cc0f.chunk.js",
-    "static/js/2.4994cc0f.chunk.js.map": "/nunestiago/PomodoroTS/static/js/2.4994cc0f.chunk.js.map",
-    "index.html": "/nunestiago/PomodoroTS/index.html",
-    "static/css/main.20b32334.chunk.css.map": "/nunestiago/PomodoroTS/static/css/main.20b32334.chunk.css.map",
-    "static/js/2.4994cc0f.chunk.js.LICENSE.txt": "/nunestiago/PomodoroTS/static/js/2.4994cc0f.chunk.js.LICENSE.txt",
-    "static/media/bell-finish.mp3": "/nunestiago/PomodoroTS/static/media/bell-finish.6b59c479.mp3",
-    "static/media/bell-start.mp3": "/nunestiago/PomodoroTS/static/media/bell-start.d01df824.mp3"
+    "main.css": "/PomodoroTS/static/css/main.20b32334.chunk.css",
+    "main.js": "/PomodoroTS/static/js/main.b0a91053.chunk.js",
+    "main.js.map": "/PomodoroTS/static/js/main.b0a91053.chunk.js.map",
+    "runtime-main.js": "/PomodoroTS/static/js/runtime-main.dbb7822f.js",
+    "runtime-main.js.map": "/PomodoroTS/static/js/runtime-main.dbb7822f.js.map",
+    "static/js/2.4994cc0f.chunk.js": "/PomodoroTS/static/js/2.4994cc0f.chunk.js",
+    "static/js/2.4994cc0f.chunk.js.map": "/PomodoroTS/static/js/2.4994cc0f.chunk.js.map",
+    "index.html": "/PomodoroTS/index.html",
+    "static/css/main.20b32334.chunk.css.map": "/PomodoroTS/static/css/main.20b32334.chunk.css.map",
+    "static/js/2.4994cc0f.chunk.js.LICENSE.txt": "/PomodoroTS/static/js/2.4994cc0f.chunk.js.LICENSE.txt",
+    "static/media/bell-finish.mp3": "/PomodoroTS/static/media/bell-finish.6b59c479.mp3",
+    "static/media/bell-start.mp3": "/PomodoroTS/static/media/bell-start.d01df824.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e0158dc.js",
+    "static/js/runtime-main.dbb7822f.js",
     "static/js/2.4994cc0f.chunk.js",
     "static/css/main.20b32334.chunk.css",
     "static/js/main.b0a91053.chunk.js"
